@@ -2,6 +2,7 @@
 
 [Call Centre Analysis.pdf](https://github.com/Siri-space/Call_Centre_Power_BI_Project/files/14200148/Call.Centre.Analysis.pdf)
 
+![CS1](https://github.com/Siri-space/Call_Centre_Power_BI_Project/assets/153458968/11b1b750-35d9-4df7-a92f-1d54444b2c88)
 
 KEYWORDS
 
