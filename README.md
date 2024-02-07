@@ -1,5 +1,8 @@
 # Call_Centre_Power_BI_Project
 
+[Call Centre Analysis.pdf](https://github.com/Siri-space/Call_Centre_Power_BI_Project/files/14200148/Call.Centre.Analysis.pdf)
+
+
 KEYWORDS
 
 Customer retention refers to the rate at which customers stay with a business in a given period.
